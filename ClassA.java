@@ -1,8 +1,8 @@
-public class ClassA {
+public class VersionedItem {
     private String name;
     private int version;
 
-    public ClassA(String name, int version) {
+    public VersionedItem(String name, int version) {
         this.name = name;
         this.version = version;
     }
